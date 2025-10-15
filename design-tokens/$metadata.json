@@ -1,0 +1,24 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/ssb",
+    "primitives/modes/typography/secondary/ssb",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/ssb",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/ssb",
+    "themes/ssb",
+    "semantic/color",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
+    "semantic/style"
+  ]
+}

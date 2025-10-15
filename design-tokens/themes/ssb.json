@@ -1,0 +1,320 @@
+{
+  "color": {
+    "primary": {
+      "1": {
+        "$type": "color",
+        "$value": "{ssb.primary.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ssb.primary.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ssb.primary.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ssb.primary.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ssb.primary.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ssb.primary.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ssb.primary.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ssb.primary.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ssb.primary.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ssb.primary.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ssb.primary.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ssb.primary.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ssb.primary.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ssb.primary.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ssb.primary.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ssb.primary.16}"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "{ssb.neutral.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ssb.neutral.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ssb.neutral.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ssb.neutral.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ssb.neutral.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ssb.neutral.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ssb.neutral.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ssb.neutral.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ssb.neutral.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ssb.neutral.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ssb.neutral.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ssb.neutral.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ssb.neutral.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ssb.neutral.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ssb.neutral.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ssb.neutral.16}"
+      }
+    },
+    "brand1": {
+      "1": {
+        "$type": "color",
+        "$value": "{ssb.brand1.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ssb.brand1.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ssb.brand1.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ssb.brand1.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ssb.brand1.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ssb.brand1.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ssb.brand1.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ssb.brand1.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ssb.brand1.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ssb.brand1.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ssb.brand1.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ssb.brand1.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ssb.brand1.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ssb.brand1.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ssb.brand1.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ssb.brand1.16}"
+      }
+    },
+    "brand2": {
+      "1": {
+        "$type": "color",
+        "$value": "{ssb.brand2.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ssb.brand2.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ssb.brand2.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ssb.brand2.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ssb.brand2.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ssb.brand2.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ssb.brand2.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ssb.brand2.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ssb.brand2.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ssb.brand2.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ssb.brand2.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ssb.brand2.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ssb.brand2.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ssb.brand2.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ssb.brand2.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ssb.brand2.16}"
+      }
+    }
+  },
+  "font-family": {
+    "$type": "fontFamilies",
+    "$value": "{ssb.font-family}"
+  },
+  "font-weight": {
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "{ssb.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "fontWeights",
+      "$value": "{ssb.font-weight.semibold}"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "{ssb.font-weight.regular}"
+    }
+  },
+  "border-radius": {
+    "1": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{border-radius.base}"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "4"
+    },
+    "scale": {
+      "$type": "dimension",
+      "$value": "4"
+    }
+  }
+}
